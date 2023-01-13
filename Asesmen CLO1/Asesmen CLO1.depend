@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670164236 source:d:\code blocks\asesmen clo1\main.cpp
+	<iostream>
+	"SLL.h"
+
+1670164430 source:d:\code blocks\asesmen clo1\sll.cpp
+	"SLL.h"
+
+1670164236 d:\code blocks\asesmen clo1\sll.h
+	<iostream>
+
